@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: starbucks
-          image: agodzo/starbucks:31
+          image: agodzo/starbucks:32
           ports:
             - containerPort: 3000
